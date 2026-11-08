@@ -23,8 +23,8 @@ Repository ini berisi dokumentasi kegiatan **Day 1 Proyek Workshop HIMATIK PNJ**
 - **Kegiatan:** Proyek Workshop HIMATIK PNJ - Day 1
 - **Penyelenggara:** HIMATIK PNJ
 - **Tanggal:** 7 November 2026
-- **Judul Materi:** From AI to GitHub: Building with AI, Managing Change with GitHub
-- **Pemateri:** Nugi Farhan (Senior Product Designer)
+- **Judul Materi:** Pengenalan akademik Jurusan TIK PNJ, Kurikulum Merdeka (MBKM dan MSIB), tata tertib Laboratorium TIK, serta profil lulusan dan kurikulum Program Studi D4 Teknik Multimedia dan Jaringan (TMJ)
+
 
 ## Rangkuman Materi
 
