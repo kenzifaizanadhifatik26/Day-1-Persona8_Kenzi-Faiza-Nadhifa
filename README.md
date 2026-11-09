@@ -28,7 +28,7 @@ Repository ini berisi dokumentasi kegiatan **Day 1 Proyek Workshop HIMATIK PNJ**
 
 ## Rangkuman Materi
 
-1. Rangkuman Materi
+## 1. Rangkuman Materi
 
 a. Pengenalan Jurusan TIK 2026-2030 Materi ini menjelaskan arah pengembangan Jurusan TIK (JTIK) PNJ pada periode 2026-2030, mencakup pendidikan vokasi, SDM, kemitraan, infrastruktur, dan inovasi digital. Visi JTIK adalah menjadi jurusan bertaraf internasional untuk mendukung daya saing bangsa di bidang informatika dan komputer, dengan tiga kata kunci: internasional, berdaya saing, dan berdampak. Misinya ada tiga: pendidikan vokasi yang menghasilkan lulusan berkarakter dan bertakwa, riset dan inovasi, serta tata kelola digital yang efisien, efektif, dan akuntabel.
 
@@ -45,7 +45,7 @@ PL04 - Pengembangan Aplikasi (Web, Mobile, dan Full Stack Developer)
 PL05 - Technopreneur Internet dan IoT (Digital Business Founder, Product Developer, Startup Founder)
 Kurikulum 2025 TMJ berlangsung 8 semester dengan total 144 SKS. Semester 1-6 memuat mata kuliah dasar dan lanjutan seperti Jaringan Komputer, Algoritma dan Pemrograman, Struktur Data, Keamanan Komputer, Pemrograman Web, dan Kecerdasan Buatan. Semester 7 berisi magang industri 15 SKS, dan semester 8 berisi skripsi.
 
-2. Poin Penting dan Pengetahuan Baru
+## 2. Poin Penting dan Pengetahuan Baru
 
 Mahasiswa PNJ bisa belajar di luar prodi hingga 2 semester lewat MBKM, dengan konversi sampai 20 SKS per semester.
 MSIB menjadi jalur magang atau studi independen bersertifikat yang sangat berguna untuk bekal karier.
@@ -53,6 +53,11 @@ Peminjaman alat dan ruang lab punya alur resmi yang harus diikuti, mulai dari fo
 Ada aturan penampilan dan tata tertib perilaku akademik yang perlu dipatuhi selama kuliah.
 Lulusan TMJ punya banyak peluang karier: network engineer, IoT engineer, security engineer, developer, sampai technopreneur.
 Kurikulum TMJ disusun bertahap dari dasar jaringan dan pemrograman menuju keamanan, cloud, AI, magang, dan skripsi.
-3. Pendapat Pribadi tentang Day 1 Proyek Workshop
+## 3. Pendapat Pribadi tentang Day 1 Proyek Workshop
 
 Menurut saya, Day 1 workshop ini seru dan sangat bermanfaat. Materinya memberi gambaran yang jelas tentang arah jurusan, peluang di luar kelas seperti MBKM dan MSIB, serta aturan yang harus dipatuhi di kampus dan laboratorium. Saya jadi lebih paham akan jadi apa setelah lulus dan apa saja yang perlu dipersiapkan sejak semester awal. Suasananya menyenangkan dan penyampaiannya mudah dipahami, sehingga saya semakin semangat mengikuti hari-hari berikutnya.
+
+## Struktur Repository
+Day-1-Persona8_Kenzi Faiza Nadhifa/
+└── README.md
+Dibuat oleh Kenzi Faiza Nadhifa - Kelompok 8 Persona
