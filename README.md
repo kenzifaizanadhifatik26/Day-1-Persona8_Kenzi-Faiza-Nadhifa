@@ -57,7 +57,3 @@ Kurikulum TMJ disusun bertahap dari dasar jaringan dan pemrograman menuju keaman
 
 Menurut saya, Day 1 workshop ini seru dan sangat bermanfaat. Materinya memberi gambaran yang jelas tentang arah jurusan, peluang di luar kelas seperti MBKM dan MSIB, serta aturan yang harus dipatuhi di kampus dan laboratorium. Saya jadi lebih paham akan jadi apa setelah lulus dan apa saja yang perlu dipersiapkan sejak semester awal. Suasananya menyenangkan dan penyampaiannya mudah dipahami, sehingga saya semakin semangat mengikuti hari-hari berikutnya.
 
-## Struktur Repository
-Day-1-Persona8_Kenzi Faiza Nadhifa/
-└── README.md
-Dibuat oleh Kenzi Faiza Nadhifa - Kelompok 8 Persona
